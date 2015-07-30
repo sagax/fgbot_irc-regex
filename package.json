@@ -1,0 +1,26 @@
+{
+  "name": "irc-regex",
+  "version": "1.0.0",
+  "description": "Regex builder / helper for IRC bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ellisgl/irc-regex.git"
+  },
+  "keywords": [
+    "regex",
+    "irc"
+  ],
+  "author": "EllisGL",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ellisgl/irc-regex/issues"
+  },
+  "homepage": "https://github.com/ellisgl/irc-regex#readme",
+  "dependencies": {
+    "lodash": "^3.10.0"
+  }
+}
